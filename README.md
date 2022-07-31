@@ -1,16 +1,12 @@
-# flutter_hive_crud
+# Flutter CRUD - Mobile App 
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/SlJrPjcXwmc)
 
-## Getting Started
+### Flutter CRUD App using Local Storage
 
-This project is a starting point for a Flutter application.
+A nice clean CRUD Mobile App.Today I will show you how you can create Flutter CRUD App using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Flutter CRUD App using hiveDB
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/182029287-2eae678a-5dc9-4452-9831-bc38a49f2ff8.png" alt="portfolio" width="600">
